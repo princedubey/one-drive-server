@@ -22,8 +22,7 @@ This application integrates with Microsoft OneDrive to provide file management f
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
-   cd onedrive-app
+   git clone https://github.com/princedubey/one-drive-server.git
 
 ### Configuration
 
